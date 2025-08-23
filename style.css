@@ -57,7 +57,8 @@ li :hover{ transition: 0,5; color:rgb(230, 205, 158);
 
 main {
     background-color: #ede2cc;
-    height: 1300px;
+    height: 1000px;
+       text-align: center;
 }
 
 .shoppuppy {
@@ -68,16 +69,17 @@ main {
     display:flex;
     gap: 0px;
     justify-content: center;  
-    text-align: center;
-    
+    text-align: center;    
 }
 
 .section2 {
+    margin-top: 20px;
     display:flex;
     gap: 0px;
     justify-content:center;  
     text-align: center;
     width: 100%;
+    text-align: center;
 }
 
 section {
@@ -104,7 +106,7 @@ h2 { font-weight: lighter; text-transform: uppercase;
 
 footer{
     background-color:  #ede2cc;
-    height: 100px;
+    height: 200px;
     overflow: hidden;
     text-align: center; 
     justify-content: space-evenly;
@@ -113,6 +115,7 @@ footer{
     list-style: none;
     text-decoration: none;  
     display: flex;
+    margin-top: 150px;
 }
 
 .i {
